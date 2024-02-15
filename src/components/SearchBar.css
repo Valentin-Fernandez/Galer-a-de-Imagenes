@@ -1,0 +1,19 @@
+.contenedor-form{
+    padding-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.form-input{
+    border: 3px solid orange;
+    border-radius: 10px;
+    width: 80%;
+    padding: 1rem;
+}
+.form-input:focus{
+    outline: none
+}
